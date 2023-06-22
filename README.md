@@ -10,3 +10,10 @@ Our team started with a low fidelity Figma mockup that determined we wanted thre
 
 ## What did I learn?
 I focused primarily on the backend as well as the front-end and back end connectivity. The time limit as well as the need to create a presentation made us focus our scope and proritize heavily focusing on one feature at a time before moving on. I was able to develop the endpoints, create the searching logic, and connect the front end and back end. I also tried to get the Google Maps API connected with our app but unfortunately was not able to solve the issues in time. We also ran into issues regarding our yarn development versions that taught me to make sure we are all synced up prior to moving forward with our project. Understanding our data is also imperative because I had a bug that prevented me from fitering with our search bar because I made the assumption that names would be unique but that wasn't the case and I had to create a more unique identifier.
+
+## Features
+* Front-end based off the Chewy operating principles for users to do fast searches
+* React-based search bar that parses our given JSON file by names of clinics or zip codes
+* Multiple endpoints with front-ends displaying our figma hi-fi mockup
+* Translation of professional categories into layman categories (Avian maps to birds, Equestrian to horses, etc) allowing users
+  to easily find the clinic they need.
